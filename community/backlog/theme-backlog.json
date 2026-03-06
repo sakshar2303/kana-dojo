@@ -1321,7 +1321,7 @@
     "mainColor": "oklch(62.0% 0.175 350.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.085 85.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "mountain-cedar",
@@ -1331,7 +1331,7 @@
     "mainColor": "oklch(70.0% 0.105 145.0 / 1)",
     "secondaryColor": "oklch(60.0% 0.055 110.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "midnight-sushi",
@@ -1392,7 +1392,7 @@
     "backgroundColor": "oklch(20.0% 0.018 210.0 / 1)",
     "mainColor": "oklch(80.0% 0.085 200.0 / 1)",
     "secondaryColor": "oklch(68.0% 0.105 160.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
