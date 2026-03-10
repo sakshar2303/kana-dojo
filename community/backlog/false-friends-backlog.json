@@ -771,7 +771,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 86,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -779,7 +779,7 @@
     "explanation": "カンニング means cheating on tests. (Set 5)",
     "example": "試験でカンニングしてはいけません。",
     "id": 87,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
